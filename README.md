@@ -80,7 +80,9 @@ A: Click the **⚠️ Driver / Setup Help** button in the app and switch from GP
 A: Yes! Change the resolution to `1920 x 1080` in the settings before converting.
 
 **Q: How long does conversion take?**  
-A: Standard 1080p movies convert in 15–20 minutes. 4K HDR movies take 35–45 minutes. Your GPU makes it significantly faster.
+A: Based on real benchmarks (e.g., Ryzen 5 7535HS + RTX 2050):
+- A 2-hour 1080p movie converts in **~13 minutes** at **9x speed**.
+- Your GPU handles the heavy lifting, staying cool and efficient (typically ~25% GPU / 35% CPU usage during conversion).
 
 ---
 
