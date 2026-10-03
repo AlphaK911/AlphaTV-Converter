@@ -6,7 +6,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/AlphaK911/AlphaTV-Converter/releases)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Support](https://img.shields.io/badge/support-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/kavindulakk)
-
+[![Downloads](https://img.shields.io/github/downloads/AlphaK911/AlphaTV-Converter/total?color=blue&style=flat-square)](https://github.com/AlphaK911/AlphaTV-Converter/releases)
 ---
 
 ## ⚡ What Does It Do?
